@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jakub Hrabecs's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jakub Hrabec
+Software engineer, Product developer, Systems architect
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="contact">
+<a href="xhrabec@gmail.com">xhrabec@gmail.com</a>
+| <a href="https://github.com/lachtanek">Github</a>
 </div>
 
 
-## Currently
+## Skills
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- System design
+- Project lead
+- Python
+  - Django, FastAPI
+  - Temporal
+- Kubernetes
+  - GitOps (Flux), Helm
+- AWS + Terraform
+- TypeScript + React
+- SQL (Postgres)
+- Github actions
+- Beginner/Intermediate: Golang, Rust, Java, Kotlin, C++, PHP
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2014-2017`
+Faculty of Informatics, Masaryk University
 
 
+## Experience
 
-## Awards
+`2019-2024`
+__Senior software engineer__, Parrot
 
-`2012`
-President, *Royal Society*, London, UK
+Building a Court reporting platform for US lawyers, over time transforming into other legal workflows.
+- Designed and built most of backend functionality in the first years (founding engineer ??)
+- Shipped a bunch of new projects - from architecture/shaping/leading the project, to release and shipping to users
+- Involved in majority of other projects' during design phase
+- Led and delivered various improvements to codebase/developer experience/CI
 
-Associate, *French Academy of Science*, Paris, France
+`2018-2019`
+__Software engineer__, kegg
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Building a fertility tracking device.
+- Developing firmware, android app, code for test jig
+- Prototyping, assembly, helping with board design
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2025 -->
 
 
