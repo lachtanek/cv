@@ -15,16 +15,20 @@ Software engineer, Product developer, Systems architect
 
 ### Core skills
 Can drive a project from product specification, through architecture design, specifying work for other engineers if necessary, communicating with product or other stakeholders, to testing and finally production release.
+
 Able to quickly prototype a feature to get early feedback from product/others or directly from customers.
+
 Proponent of actively solving the issues I encounter during development (be it code quality, bad UX, etc), or at starting discussions with others if they prove bigger.
+
 Usually diving deep and trying to understand the projects/issues I'm working on.
+
 In the past worked with, or toyed with for personal projects: Golang, Rust, Java, Kotlin, C++, PHP.
 
 ### Spoken languages
-- Czech: native
-- English: fluent speaker
+Czech: native, English: fluent speaker
 
 ### Programming / Hard skills
+
 - Python (Django, FastAPI, Temporal)
 - TypeScript + React
 - Kubernetes (manifests, Flux, Helm)
