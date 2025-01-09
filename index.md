@@ -27,21 +27,19 @@ In the past worked with, or toyed with for personal projects: Golang, Rust, Java
 ### Spoken languages
 Czech: native, English: fluent speaker
 
-### Programming / Hard skills
+### Hard skills
 
+Programming languages:
 - Python (Django, FastAPI, Temporal)
 - TypeScript + React
+
+Technologies:
 - Kubernetes (manifests, Flux, Helm)
 - Terraform (AWS)
 - Github Actions
 
-- Limited experience with (from personal projects, past jobs, uni): Java, Kotlin, Rust, Golang, PHP
-
-
-## Education
-
-`2014-2017`
-Faculty of Informatics, Masaryk University
+Limited experience with (from personal projects, past jobs, uni):
+- Java, Kotlin, Rust, Golang, PHP
 
 
 ## Experience
@@ -63,8 +61,7 @@ Building a fertility tracking device.
 - Prototyping, assembly, helping with board design
 
 
-<!-- ### Footer
+## Education
 
-Last updated: Jan 2025 -->
-
-
+`2014-2017`
+Faculty of Informatics, Masaryk University
