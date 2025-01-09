@@ -31,6 +31,7 @@ __Programming languages:__
 - TypeScript + React
 
 __Technologies:__
+- Docker
 - Kubernetes (manifests, Flux, Helm)
 - Terraform (AWS)
 - Github Actions
