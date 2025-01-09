@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jakub Hrabecs's CV
+title: Jakub Hrabec
 ---
 # Jakub Hrabec
 Software engineer, Product developer, Systems architect
