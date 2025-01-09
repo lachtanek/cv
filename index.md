@@ -13,15 +13,21 @@ Software engineer, Product developer, Systems architect
 
 ## Skills
 
-- System design
-- Project lead
+### Spoken languages
+- Czech: native
+- English: fluent speaker
+
+### Programming
 - Python (Django, FastAPI, Temporal)
-- Kubernetes (GitOps - Flux, Helm)
-- AWS + Terraform
 - TypeScript + React
-- SQL (Postgres)
-- Github actions
-- Beginner/Intermediate level: Golang, Rust, Java, Kotlin, C++, PHP
+
+### Technical skills
+Can drive a project from product specification, through architecture design, specifying work for other engineers if necessary, communicating with product or other stakeholders, to testing and finally production release.
+Able to quickly prototype a feature to get early feedback from product/others or directly from customers.
+Proponent of directly solving or at least actively raising the issues I encounter during development (be it code quality, bad UX, etc).
+Usually diving deep and trying to understand the projects/issues I'm working on.
+Can handle some infrastructure/devops work - Kubernetes (Flux, Helm), Terraform (AWS), Github Actions CI.
+In the past worked with, or toyed with for personal projects: Golang, Rust, Java, Kotlin, C++, PHP.
 
 
 ## Education
