@@ -29,17 +29,17 @@ Czech: native, English: fluent speaker
 
 ### Hard skills
 
-Programming languages:
+__Programming languages:__
 - Python (Django, FastAPI, Temporal)
 - TypeScript + React
 
-Technologies:
+__Technologies:__
 - Kubernetes (manifests, Flux, Helm)
 - Terraform (AWS)
 - Github Actions
 
-Limited experience with (from personal projects, past jobs, uni):
-- Java, Kotlin, Rust, Golang, PHP
+__Limited experience with (from personal projects, past jobs, uni):__
+- Java, Kotlin, Rust, Golang, PHP, Gitlab CI
 
 
 ## Experience
