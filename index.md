@@ -8,6 +8,7 @@ Software engineer, Product developer, Systems architect
 <div id="contact">
 <a href="mailto:xhrabec@gmail.com">xhrabec@gmail.com</a>
 | <a href="https://github.com/lachtanek" target="_blank">Github</a>
+| <a href="https://www.linkedin.com/in/jakub-hrabec-330050163/" target="_blank">LinkedIn</a>
 </div>
 
 
