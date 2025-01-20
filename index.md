@@ -14,12 +14,13 @@ Software engineer, Product developer, Systems architect
 ## Skills
 
 ### Core skills
-Can drive a project from its inception (product specification/idea) to production release.
-Specifically architecture design, communicating with stakeholders, planning implementation, including other engineers if necessary.
+Drive a project from its inception (product specification/idea) to production release. Specifically architecture design, communicating with stakeholders, planning implementation, including other engineers if necessary.
 
 Able to quickly prototype a feature to get early feedback from product/others or directly from customers.
 
-Proponent of actively solving the issues I encounter during development (be it code quality, bad UX, etc), or at starting discussions with others if they prove bigger.
+Proponent of actively solving the issues I encounter during development (be it code quality, bad UX, performance, etc), or at least starting a discussion and pulling in others if they prove bigger.
+
+Diving deep into tasks, wants to understand the problem in-depth before implementing a solution.
 
 ### Spoken languages
 Czech: native, English: fluent speaker
@@ -37,7 +38,7 @@ __Technologies:__
 - Github Actions
 
 __Limited experience with (from personal projects, past jobs, uni):__
-- Java, Kotlin, Rust, Golang, PHP, Gitlab CI
+- C, C++, Rust, Golang, Java/Kotlin, PHP
 
 
 ## Experience
