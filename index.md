@@ -38,7 +38,7 @@ __Technologies:__
 - Terraform (AWS)
 - Github Actions
 
-__Limited experience with (from personal projects, past jobs, uni):__
+__Other languages (from personal projects/uni, no professional experience):__
 - C, C++, Rust, Golang, Java/Kotlin, PHP
 
 
