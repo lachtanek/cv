@@ -31,15 +31,16 @@ Czech: native, English: fluent speaker
 __Programming languages:__
 - Python (Django, FastAPI, Temporal)
 - TypeScript + React
+- Rust
+- Golang
+- C/C++
 
 __Technologies:__
+- Temporal
 - Docker
 - Kubernetes (manifests, Flux, Helm)
 - Terraform (AWS)
 - Github Actions
-
-__Other languages (from personal projects/uni, no professional experience):__
-- C, C++, Rust, Golang, Java/Kotlin, PHP
 
 
 ## Experience
