@@ -8,6 +8,7 @@ Software engineer, Product developer, Systems architect
 <div id="contact">
 <a href="mailto:xhrabec@gmail.com">xhrabec@gmail.com</a>
 | <a href="https://github.com/lachtanek" target="_blank">Github</a>
+| <a href="https://codeberg.org/lachtanek" target="_blank">Codeberg</a>
 | <a href="https://www.linkedin.com/in/jakub-hrabec-330050163/" target="_blank">LinkedIn</a>
 </div>
 
@@ -36,19 +37,27 @@ __Programming languages:__
 - C/C++
 
 __Technologies:__
-- Temporal
 - Docker
 - Kubernetes (manifests, Flux, Helm)
+- Temporal
 - Terraform (AWS)
 - Github Actions
 
 
 ## Experience
 
-`2019-2024`
-__Senior software engineer__, Parrot
+`Jun 2026-Sep 2026`
+__Senior software engineer__, DOMIN TENDER
 
-Building a Court reporting platform for US lawyers, over time transforming into other legal workflows.
+Application for czech lawyers (and others) to help analyze compliance of and score tender offers.
+- Overhauled the whole UI/UX prior to first client test
+- Built a couple of new features, led brainstorming for more
+- Introduced better processes into development, basic alerting, monitoring, no-downtime deployment, etc
+
+`2019-2025`
+__Senior software engineer__, Parrot (bought by Filevine)
+
+Court reporting platform for US lawyers, over time transforming into other legal workflows.
 - Designed and built most of backend functionality in the first years
 - Shipped a number of projects end-to-end - from architecture/shaping/leading the project, to release and shipping to users
 - Involved in majority of other projects' during design phase
